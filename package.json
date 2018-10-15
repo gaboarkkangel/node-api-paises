@@ -1,0 +1,19 @@
+{
+    "name": "restcountries",
+    "version": "1.0.0",
+    "description": "Api para buscar paises",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Juan Lopez",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.4",
+        "method-override": "^2.1.2",
+        "mongoose": "~3.6.11",
+        "nodemon": "^1.18.4",
+        "request": "^2.88.0"
+    }
+}
